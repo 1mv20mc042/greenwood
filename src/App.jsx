@@ -91,7 +91,7 @@ function App() {
             {/* Home Section */}
             <section className="home" id="home">
                 <div className="home-text">
-                    <h1> AK <br /> Travel & Tours </h1>
+                    <h1> GREENWOOD<br /> Travel & Tours </h1>
                     <p id='para'>“The world is a book and those who do not travel <br /> read only one page.”</p>
                     <a href="" className="home-btn">Let's go now</a>
                 </div>
